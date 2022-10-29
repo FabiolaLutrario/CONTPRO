@@ -1,0 +1,12 @@
+Instalar los siguientes productos, y en el orden en el que 
+los indico:
+
+1º) Primero desinstalar el Controlador de 2007 Office System, 
+si es que lo tienes instalado, porque entonces no vas a poder
+instalar los siguientes componentes.
+
+2º) Instalar el Componente AccessDatabaseEngine_X64.
+
+3º) Luego, instalar el Controlador AccessDatabaseEngine.
+
+4º) Finalmente ejecuta el Setup para que se instale el programa.
