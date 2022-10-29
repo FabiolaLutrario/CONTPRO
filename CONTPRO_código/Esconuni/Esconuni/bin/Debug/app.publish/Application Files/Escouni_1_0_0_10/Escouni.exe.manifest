@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Escouni.exe" version="1.0.0.10" publicKeyToken="f0ead824dc9255cb" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="videobeanicono.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Escouni" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Escouni.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Escouni.exe" size="1232864">
+      <assemblyIdentity name="Escouni" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5fxBjah7f1awcdtAvcgkMisyQKhc97ZI9sSK4/B0LsY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Escouni.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="videobeanicono.ico" size="203366">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>39MBSDSm0FtPAvYSWKC8SMCCJE2Io4KwR7Hc3xsRWBo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-02N3N2U\grego" issuerKeyHash="857ffee22728f2a524a46e349eea3ef2bf436b17" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Zl/EoatbUDDaa29omRhWt+6LxV/UDOgVqEetU9vw24E=</DigestValue></Reference></SignedInfo><SignatureValue>fcxyjECk1TBJ5xicymvsiDMDnHWSynFTYv8iO2z5I4EL/2Ux3gyJSil0YAkmfUM+6VwoDksj9JhYpuesAszAnDgXfN+GOaNf8VAQSx4oFN8tCZVlPQXRbUW3Ccu0sPawyUCcc5cvPgLjWwHxXP153+T3dL8EqEONBvt8oTusALo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>00pTLSGWfc4k2UOFJL4xnMQbmFV0sEkDY9xBYlIcxUf5UbjXL9N2/FWLKFK4RQqgN0LtmJsA/OlbVSIL4n2ZrxGQLXgMU1AoaUv0jOsaJ2hU0PchNogLTNU0DFQ3gtplAhlruHAnJGm1/w0xlc89OTiO8t4r4nyGy0Hq2a6O9KE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="81dbf0db53ad47a815e80cd45fc58beeb7561899686f6bda30505baba1c45f66" Description="" Url=""><as:assemblyIdentity name="Escouni.exe" version="1.0.0.10" publicKeyToken="f0ead824dc9255cb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-02N3N2U\grego</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qFhFsfbrM1vIovVVMtkRosMFOfwj8nem+VxNcuCvui8=</DigestValue></Reference></SignedInfo><SignatureValue>GM9HR7a/OCtaNX2Atq882v1+JAPNfp1kytUlZ7z5kptzYItMQm6nyrFw+aICHDNOX6inRhtZ1BB4z4NY8kcSf0WYgoRmJr7UVDP9NPyXLSd28NjsjDsrjUeaxV+sru1D9x9ICFKfoF3M3ce5LQB6KTlUWGej0s/+lehpEHhZA6c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>00pTLSGWfc4k2UOFJL4xnMQbmFV0sEkDY9xBYlIcxUf5UbjXL9N2/FWLKFK4RQqgN0LtmJsA/OlbVSIL4n2ZrxGQLXgMU1AoaUv0jOsaJ2hU0PchNogLTNU0DFQ3gtplAhlruHAnJGm1/w0xlc89OTiO8t4r4nyGy0Hq2a6O9KE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQHcgnZKfIiL9ArpYJqiNvJDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADAAMgBOADMATgAyAFUAXABnAHIAZQBnAG8wHhcNMTcwMjI4MDEyODQ0WhcNMTgwMjI4MDcyODQ0WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADAAMgBOADMATgAyAFUAXABnAHIAZQBnAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANNKUy0hln3OJNlDhSS+MZzEG5hVdLBJA2PcQWJSHMVH+VG41y/TdvxViyhSuEUKoDdC7ZibAPzpW1UiC+J9ma8RkC14DFNQKGlL9IzrGidoVND3ITaIC0zVNAxUN4LaZQIZa7hwJyRptf8NMZXPPTk4jvLeK+J8hstB6tmujvShAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAqZUQI6WZp1kyoyBKpWQgWUXuIQcbflYIqvxnUBmsc43FCoicTa3i8H5aVFg3a3ye3Hh1wEFiXcHLiWyeK8CsbFcfVNTD43/MbSEzyIlkcyjH2+9KD6knBSxXg9ji6qOdX1pqCcjgdW/68sG3mADNwxkWquZS1jNPUsZrZMEV3Yk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
