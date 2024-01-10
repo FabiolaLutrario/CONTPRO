@@ -1,0 +1,143 @@
+c:\users\grego\onedrive\documentos\visual studio 2013\Projects\Esconuni\Esconuni\bin\Debug\Esconuni.exe.config
+C:\Users\grego\Desktop\Esconuni\Esconuni\bin\Debug\Esconuni.exe.config
+C:\Users\grego\Desktop\Esconuni\Esconuni\bin\Debug\Esconuni.exe
+C:\Users\grego\Desktop\Esconuni\Esconuni\bin\Debug\Esconuni.pdb
+C:\Users\grego\Desktop\Esconuni\Esconuni\bin\Debug\Esconuni.xml
+C:\Users\grego\Desktop\Esconuni\Esconuni\obj\Debug\Esconuni.Form1.resources
+C:\Users\grego\Desktop\Esconuni\Esconuni\obj\Debug\Esconuni.Resources.resources
+C:\Users\grego\Desktop\Esconuni\Esconuni\obj\Debug\Esconuni.vbproj.GenerateResource.Cache
+C:\Users\grego\Desktop\Esconuni\Esconuni\obj\Debug\Esconuni.exe
+C:\Users\grego\Desktop\Esconuni\Esconuni\obj\Debug\Esconuni.xml
+C:\Users\grego\Desktop\Esconuni\Esconuni\obj\Debug\Esconuni.pdb
+C:\Users\grego\Desktop\Esconuni\Esconuni\obj\Debug\Esconuni.Bienvenido.resources
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Bienvenido.resources
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Form1.resources
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Resources.resources
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbproj.GenerateResource.Cache
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Prestamo.resources
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Bienvenido.resources
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Form1.resources
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Resources.resources
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Prestamo.resources
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbproj.GenerateResource.Cache
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbprojResolveAssemblyReference.cache
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbprojResolveAssemblyReference.cache
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\bin\Debug\Esconuni.exe.config
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.exe
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.xml
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.pdb
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\bin\Debug\Esconuni.exe
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\bin\Debug\Esconuni.pdb
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\bin\Debug\Esconuni.xml
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbprojResolveAssemblyReference.cache
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Bienvenido.resources
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Form1.resources
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Resources.resources
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Prestamo.resources
+C:\Users\uniojeda\Desktop\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbproj.GenerateResource.Cache
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\bin\Debug\Esconuni.exe.config
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.exe
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.xml
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.pdb
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\bin\Debug\Esconuni.exe
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\bin\Debug\Esconuni.pdb
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\bin\Debug\Esconuni.xml
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbprojResolveAssemblyReference.cache
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Bienvenido.resources
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Form1.resources
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Resources.resources
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Prestamo.resources
+G:\fin probando eliminar\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbproj.GenerateResource.Cache
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Regresar_equipo.resources
+C:\Users\grego\Desktop\JiJIJIJI\Escouni.exe.config
+C:\Users\grego\Desktop\JiJIJIJI\Escouni.exe
+C:\Users\grego\Desktop\JiJIJIJI\Escouni.pdb
+C:\Users\grego\Desktop\JiJIJIJI\Escouni.xml
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.exe
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.xml
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.pdb
+C:\Users\grego\Desktop\Al fin\Esconuni\Escouni.exe.config
+C:\Users\grego\Desktop\Al fin\Esconuni\Escouni.exe
+C:\Users\grego\Desktop\Al fin\Esconuni\Escouni.pdb
+C:\Users\grego\Desktop\Al fin\Esconuni\Escouni.xml
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe.config
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.pdb
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.xml
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe.manifest
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.application
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.exe.manifest
+C:\Users\grego\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.application
+D:\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe.config
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.exe
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.xml
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.pdb
+D:\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe.manifest
+D:\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.application
+D:\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe
+D:\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.pdb
+D:\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.xml
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbprojResolveAssemblyReference.cache
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Bienvenido.resources
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Form1.resources
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Resources.resources
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Prestamo.resources
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Registros.resources
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Regresar_equipo.resources
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbproj.GenerateResource.Cache
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.exe.manifest
+D:\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.application
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe.config
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.exe
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.xml
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.pdb
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe.manifest
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.application
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.pdb
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.xml
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Registros.resources
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Regresar_equipo.resources
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.exe.manifest
+C:\Users\uniojeda\Desktop\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.application
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe.config
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.exe
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.xml
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.pdb
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe.manifest
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.application
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.exe
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.pdb
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\bin\Debug\Escouni.xml
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbprojResolveAssemblyReference.cache
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Bienvenido.resources
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Form1.resources
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Resources.resources
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Prestamo.resources
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Registros.resources
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.Regresar_equipo.resources
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Esconuni.vbproj.GenerateResource.Cache
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.exe.manifest
+C:\Users\grego\Music\Al fin\Esconuni\Esconuni\obj\Debug\Escouni.application
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\bin\Debug\Escouni.exe.config
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Escouni.exe
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Escouni.xml
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Escouni.pdb
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\bin\Debug\Escouni.exe.manifest
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\bin\Debug\Escouni.application
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\bin\Debug\Escouni.exe
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\bin\Debug\Escouni.pdb
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\bin\Debug\Escouni.xml
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Esconuni.Bienvenido.resources
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Esconuni.Form1.resources
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Esconuni.Resources.resources
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Esconuni.Prestamo.resources
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Esconuni.Registros.resources
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Esconuni.Regresar_equipo.resources
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Esconuni.vbproj.GenerateResource.Cache
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Escouni.exe.manifest
+C:\Users\grego\Desktop\CONTPRO Listo para Septup\Esconuni\Esconuni\obj\Debug\Escouni.application
+D:\Archivos Fabi\Mis PROYECTOS\CONTPRO Listo para Septup\CONTPRO para editar y ver código\Esconuni\Esconuni\bin\Debug\Escouni.exe.config
+D:\Archivos Fabi\Mis PROYECTOS\CONTPRO Listo para Septup\CONTPRO para editar y ver código\Esconuni\Esconuni\obj\Debug\Escouni.exe
+D:\Archivos Fabi\Mis PROYECTOS\CONTPRO Listo para Septup\CONTPRO para editar y ver código\Esconuni\Esconuni\obj\Debug\Escouni.xml
+D:\Archivos Fabi\Mis PROYECTOS\CONTPRO Listo para Septup\CONTPRO para editar y ver código\Esconuni\Esconuni\obj\Debug\Escouni.pdb
